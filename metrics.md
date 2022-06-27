@@ -9,6 +9,8 @@
 # How
 
 - [link](https://dzlab.github.io/bigdata/2020/07/03/spark3-monitoring-2/)
+- Spark needs to be updated to version 3 or higher
+- Extra plugins should be installed
 
 # Plugins
 
